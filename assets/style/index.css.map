@@ -2,11 +2,11 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "main.scss",
+        "index.scss",
         "_base.scss",
         "_layout.scss",
         "_components.scss"
     ],
     "names": [],
-    "file": "main.css"
+    "file": "index.css"
 }
